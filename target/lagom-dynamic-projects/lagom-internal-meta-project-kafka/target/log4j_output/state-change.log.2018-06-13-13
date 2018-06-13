@@ -1,0 +1,2 @@
+[2018-06-13 13:04:08,686] TRACE Controller 0 epoch 2 received response {error_code=0} for a request sent to broker ayush-Lenovo-G50-80:9092 (id: 0 rack: null) (state.change.logger)
+[2018-06-13 13:24:20,315] TRACE Controller 0 epoch 3 received response {error_code=0} for a request sent to broker ayush-Lenovo-G50-80:9092 (id: 0 rack: null) (state.change.logger)
